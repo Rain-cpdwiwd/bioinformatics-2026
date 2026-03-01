@@ -51,17 +51,17 @@ slides 里给了一个四步的框架：
 
 ---
 
-## 5. 我自己的学习计划（新手版）
-我目前生信基础很少，所以先定一个不夸张的计划：
+## 5. 我自己的学习计划
+我目前生信基础很少，所以我的计划是：
 - 先把课程教程能跟下来：每周 2–3 次，每次 30–60 分钟
 - 先把工具用顺手：Git/GitHub、Markdown、基本 Linux 命令
 - 碰到不懂的概念先记下来（比如 HMM、NGS 流程、差异表达等），后面再逐个补
 
 ---
 
-## 6. 这次作业我需要交什么（checklist）
+## 6. 这次作业我需要交什么
 - [x] GitHub 仓库已建立：bioinformatics-2026
 - [x] 本地可 commit/push 到 GitHub（用 GitHub Desktop）
 - [x] GitHub Pages 已发布（main + /docs）
-- [ ] 把本页内容再检查一遍：确保有 algorithm vs model + 学习计划
-- [ ] 提交作业：提交网页链接（外网可访问）
+- [x] 把本页内容再检查一遍：确保有 algorithm vs model + 学习计划
+- [x] 提交作业：提交网页链接（外网可访问）
